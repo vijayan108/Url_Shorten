@@ -2,8 +2,8 @@
 import requests
 
 #account credentials
-username = "o_6oueteup2l"
-password = "vijayynot108@gmail.com"
+username = input("Enter a username fot bitly: ")
+password = input("enter a password fot bitly: ")
 
 # the URL you want to shorten
 url = input("Enter the URl to shorten:")
